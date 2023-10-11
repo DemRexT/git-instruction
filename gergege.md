@@ -30,6 +30,4 @@
 
 ## git checkout
 
-## git checkout master
 
-## git diff
