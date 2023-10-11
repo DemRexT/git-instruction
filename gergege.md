@@ -20,6 +20,8 @@
 
 ## git status
 
+git status проверит статус 
+
 ## git commit
 
 ## git log 
