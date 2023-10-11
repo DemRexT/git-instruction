@@ -13,6 +13,8 @@
 
 ## git status
 
+Чтобы проверить статус, используем уже команду **"git status"**
+
 ## git commit
 
 ## git log 
