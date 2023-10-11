@@ -20,7 +20,7 @@
 
 ## git status
 
-git status проверит статус 
+Чтобы проверить статус, используем уже команду **"git status"**
 
 ## git commit
 
